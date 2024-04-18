@@ -16,7 +16,7 @@ function IngresarDatos(){
         if (telefono == ""){
         alert("Dejaste campos vacios. Vuelve a intentarlo.");
         } else {
-        alert("¡Excelente!");
+        alert("Número de teléfono cargado exitosamente.");
         }
     } while (telefono === "");
     do {
